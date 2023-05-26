@@ -1,5 +1,3 @@
-
-
 import random
 
 def miller_rabin_test(n, k): #алгоритм Мілера-Рабіна перевірки, чи є число n ймовірно простим
